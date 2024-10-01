@@ -1,0 +1,2 @@
+# SAS-Software-Statistical-Analysis-of-Health-Survey-Data
+This repository showcases various statistical analyses conducted on health survey data using SAS software. This repository includes summary statistics, hypothesis testing, regression models (including logistic and Cox proportional hazards), and survival analysis techniques, demonstrating my analytical skills and proficiency in health data analysis
