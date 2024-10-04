@@ -1,0 +1,68 @@
+1                                         The SAS System     Thursday, October  3, 2024 04:21:00 PM
+
+NOTE: Copyright (c) 2023 by SAS Institute Inc., Cary, NC, USA. 
+NOTE: SAS (r) Proprietary Software 9.4 (TS1M8 MBCS3170) 
+      Licensed to UNIVERSITY OF NORTH TEXAS - T&R - SFA, Site 70194722.
+NOTE: This session is executing on the X64_WIN+HOME  platform.
+
+
+
+NOTE: Analytical products:
+      
+      SAS/STAT 15.3
+      SAS/ETS 15.3
+      SAS/OR 15.3
+      SAS/IML 15.3
+      SAS/QC 15.3
+
+NOTE: Additional host information:
+
+ X64_WIN+HOME WIN 10.0.22631  Workstation
+
+NOTE: SAS initialization used:
+      real time           34.72 seconds
+      cpu time            0.06 seconds
+      
+1          libname meps "C:\Data\MEPS\Datasets";
+NOTE: Libref MEPS was successfully assigned as follows: 
+      Engine:        V9 
+      Physical Name: C:\Data\MEPS\Datasets
+2          
+3          /**********************************/
+4          /* Simple Linear Regression Model */
+5          /* Data: MEPS 2020 Household file */
+6          /*                                */
+7          /* Jacqueline Gomez               */
+8          /* 28 January 2024                */
+9          /**********************************/
+10         
+11         /* Dataset Description */
+12         proc contents data = meps.phar5323;
+13         run;
+
+NOTE: PROCEDURE CONTENTS used (Total process time):
+      real time           0.62 seconds
+      cpu time            0.01 seconds
+      
+NOTE: The PROCEDURE CONTENTS printed pages 1-2.
+
+14         
+15         /* Simple Linear Regression */
+16         proc reg data = meps.phar5323;
+17         	model VPCS42 = age;
+18         run;
+
+19         
+2                                         The SAS System     Thursday, October  3, 2024 04:21:00 PM
+
+NOTE: The PROCEDURE REG printed page 3.
+NOTE: PROCEDURE REG used (Total process time):
+      real time           0.28 seconds
+      cpu time            0.01 seconds
+      
+
+NOTE: SAS Institute Inc., SAS Campus Drive, Cary, NC USA 27513-2414
+NOTE: The SAS System used:
+      real time           35.73 seconds
+      cpu time            0.12 seconds
+      
