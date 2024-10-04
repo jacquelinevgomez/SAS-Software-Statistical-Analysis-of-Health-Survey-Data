@@ -1,7 +1,7 @@
 # Exploring the Impact of Age on VPCS42 through Simple Linear Regression Analysis Using SAS
 
 ### Introduction
-This project investigates the impact of age on physical health scores (VPCS42) using simple linear regression analysis based on data from the 2020 Medical Expenditure Panel Survey. The goal is to understand how age influences health outcomes and to provide insights for resource allocation in healthcare.
+This simple project investigates the impact of age on physical health scores (VPCS42) using simple linear regression analysis based on data from the 2020 Medical Expenditure Panel Survey. The goal is to understand how age influences health outcomes and to provide insights for resource allocation in healthcare.
 
 ### Objectives
 - Analyze the relationship between age and physical health scores.
@@ -9,7 +9,7 @@ This project investigates the impact of age on physical health scores (VPCS42) u
 - Provide recommendations for targeted health initiatives based on age.
 
 ### Data
-The analysis utilizes **14,423 observations** from the **2020 Medical Expenditure Panel Survey**, focusing on key variables related to age and physical health scores.
+The analysis utilizes **14,423 observations** from the **2020 Medical Expenditure Panel Survey**.
 
 ### Methods
 Simple linear regression was employed to assess the relationship between age and physical health scores (VPCS42). This model quantifies the effect of age on health outcomes and evaluates the significance of this relationship.
@@ -20,16 +20,15 @@ Simple linear regression was employed to assess the relationship between age and
 - The model explains approximately **17%** of the variance in VPCS42, indicating that other factors also influence health scores.
 
 ## Folder Structure
-
-1. CODE - To run the analysis:
+1. **CODE** - To run the analysis:
   (1) Open `CODE.sas` in SAS software.
   (2) Execute the script to generate results, which will be saved in the `RESULTS.pdf` file.
 
-2. RESULTS - As mentioned the output of the SAS code can be found in the `RESULTS.pdf` filer, including key statistics and visualizations.
+2. **RESULTS** - As mentioned the output of the SAS code can be found in the `RESULTS.pdf` filer, including key statistics and visualizations.
 
-3. REPORT - A comprehensive report detailing the findings from the SAS output is available in the `REPORT.pdf` file.
+3. **REPORT** - A comprehensive report detailing the findings from the SAS output is available in the `REPORT.pdf` file.
 
-4. PRESENTATION - A mock presentation that summarizes the findings for potential stakeholders or clients is located in the `PRESENTATION.pdf` file.
+4. **PRESENTATION** - A mock presentation that summarizes the findings for potential stakeholders or clients is located in the `PRESENTATION.pdf` file.
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
