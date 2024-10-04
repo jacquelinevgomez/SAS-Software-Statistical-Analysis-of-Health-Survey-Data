@@ -21,18 +21,18 @@ Simple linear regression was employed to assess the relationship between age and
 
 ## Folder Structure
 
-### Code
+### 1. Code
 To run the analysis:
 1. Open `CODE_Simple-Linear-Regression` in SAS software.
 2. Execute the script to generate results, which will be saved in the `results_Simple-Linear-Regression` folder.
 
-### Results
+### 2. Results
 The output of the SAS code can be found in the `results_Simple-Linear-Regression` folder, including key statistics and visualizations.
 
-### Report
+### 3. Report
 A comprehensive report detailing the findings from the SAS output is available in the `report_Simple-Linear-Regression` folder.
 
-### Presentation
+### 4. Presentation
 A mock presentation that summarizes the findings for potential stakeholders or clients is located in the `presentation_Simple-Linear-Regression` folder.
 
 ## Contributing
