@@ -22,18 +22,15 @@ Simple linear regression was employed to assess the relationship between age and
 ## Folder Structure
 
 1. CODE
-To run the analysis:
-1. Open `CODE.sas` in SAS software.
-2. Execute the script to generate results, which will be saved in the `RESULTS.pdf` file.
+  To run the analysis:
+  (1) Open `CODE.sas` in SAS software.
+  (2) Execute the script to generate results, which will be saved in the `RESULTS.pdf` file.
 
-2. RESULTS
-As mentioned the output of the SAS code can be found in the `result.pdf` filer, including key statistics and visualizations.
+2. RESULTS - As mentioned the output of the SAS code can be found in the `RESULTS.pdf` filer, including key statistics and visualizations.
 
-#### 3. Report
-A comprehensive report detailing the findings from the SAS output is available in the `Report.pdf` file.
+3. REPORT - A comprehensive report detailing the findings from the SAS output is available in the `REPORT.pdf` file.
 
-#### 4. Presentation
-A mock presentation that summarizes the findings for potential stakeholders or clients is located in the `Presentation.pdf` file.
+4. PRESENTATION - A mock presentation that summarizes the findings for potential stakeholders or clients is located in the `PRESENTATION.pdf` file.
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
