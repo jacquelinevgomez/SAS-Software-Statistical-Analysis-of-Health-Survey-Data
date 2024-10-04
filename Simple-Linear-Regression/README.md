@@ -21,8 +21,7 @@ Simple linear regression was employed to assess the relationship between age and
 
 ## Folder Structure
 
-1. CODE
-  To run the analysis:
+1. CODE - To run the analysis:
   (1) Open `CODE.sas` in SAS software.
   (2) Execute the script to generate results, which will be saved in the `RESULTS.pdf` file.
 
