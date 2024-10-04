@@ -1,0 +1,21 @@
+# Simple Linear Regression Analysis: Impact of Age on Physical Health Scores (VPCS42)
+
+## Introduction
+This project explores the impact of age on physical health scores using simple linear regression analysis based on data from the 2020 Medical Expenditure Panel Survey.
+
+## Objectives
+To analyze how age influences physical health scores and provide insights for health resource allocation.
+
+## Data
+The analysis is based on 14,423 observations from the 2020 Medical Expenditure Panel Survey, focusing on variables related to age and physical health scores.
+
+## Methods
+We employed simple linear regression to assess the relationship between age and physical health scores (VPCS42).
+
+## Key Findings
+The analysis reveals a significant negative correlation between age and physical health scores, with age explaining 17% of the variance in VPCS42.
+
+## Resources
+The analysis was performed using SAS software.
+
+## Folder Structure
