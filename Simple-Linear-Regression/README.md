@@ -23,14 +23,14 @@ Simple linear regression was employed to assess the relationship between age and
 1. **SUMMARY** - An overview of Simple Linear Analysis.
    
 2. **CODE** - To run the analysis:
-  (1) Open `SLR-Codebook.sas` in SAS software.
-  (2) Execute the script to generate results, which will be saved in the `SLR-Results.pdf` file.
+  (1) Open `Code.sas` in SAS software.
+  (2) Execute the script to generate results, which will be saved in the `Results.pdf` file.
 
-3. **RESULTS** - As mentioned the output of the SAS code can be found in the `SLR-Results.pdf` filer, including key statistics and visualizations.
+3. **RESULTS** - As mentioned the output of the SAS code can be found in the `Results.pdf` filer, including key statistics and visualizations.
 
-4. **REPORT** - A comprehensive report detailing the findings from the SAS output is available in the `SLR-Report.pdf` file.
+4. **REPORT** - A comprehensive report detailing the findings from the SAS output is available in the `Report.pdf` file.
 
-5. **PRESENTATION** - A mock presentation that summarizes the findings for potential stakeholders or clients is located in the `SLR-Presentation.pdf` file.
+5. **PRESENTATION** - A mock presentation that summarizes the findings for potential stakeholders or clients is located in the `Presentation.pdf` file.
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
