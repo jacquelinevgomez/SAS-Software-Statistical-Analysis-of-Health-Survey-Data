@@ -20,15 +20,17 @@ Simple linear regression was employed to assess the relationship between age and
 - The model explains approximately **17%** of the variance in VPCS42, indicating that other factors also influence health scores.
 
 ## Folder Structure
-1. **CODE** - To run the analysis:
-  (1) Open `CODE.sas` in SAS software.
-  (2) Execute the script to generate results, which will be saved in the `RESULTS.pdf` file.
+1. **Summary** - An overview of Simple Linear Analysis.
+   
+2. **CODE** - To run the analysis:
+  (1) Open `SLR-codebook.sas` in SAS software.
+  (2) Execute the script to generate results, which will be saved in the `SLR-results.pdf` file.
 
-2. **RESULTS** - As mentioned the output of the SAS code can be found in the `RESULTS.pdf` filer, including key statistics and visualizations.
+3. **RESULTS** - As mentioned the output of the SAS code can be found in the `SLR-results.pdf` filer, including key statistics and visualizations.
 
-3. **REPORT** - A comprehensive report detailing the findings from the SAS output is available in the `REPORT.pdf` file.
+4. **REPORT** - A comprehensive report detailing the findings from the SAS output is available in the `SLR-report.pdf` file.
 
-4. **PRESENTATION** - A mock presentation that summarizes the findings for potential stakeholders or clients is located in the `PRESENTATION.pdf` file.
+5. **PRESENTATION** - A mock presentation that summarizes the findings for potential stakeholders or clients is located in the `SLR-presentation.pdf` file.
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
