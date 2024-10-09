@@ -20,7 +20,7 @@ Simple linear regression was employed to assess the relationship between age and
 - The model explains approximately **17%** of the variance in VPCS42, indicating that other factors also influence health scores.
 
 ## Folder Structure
-1. **Overview** - Provides a quick summary of Simple Linear Analysis.
+1. **Overview** - Provides a quick summary of Simple Linear Analysis available in the `Overview.pdf` file.
    
 2. **Code** - To run the analysis:
   (1) Open `Code.sas` in SAS software.
