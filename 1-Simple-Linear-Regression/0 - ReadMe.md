@@ -21,15 +21,9 @@ Simple linear regression was employed to assess the relationship between age and
 
 ## Folder Structure
 1. **Overview** - Provides a quick summary of Simple Linear Analysis available in the `Overview.pdf` file.
-   
-2. **Code** - To run the analysis:
-  (1) Open `Code.sas` in SAS software.
-  (2) Execute the script to generate results, which will be saved in the `Results.pdf` file.
-
-3. **Results** - As mentioned the output of the SAS code can be found in the `Results.pdf` filer, including key statistics and visualizations.
-
+2. **Code** - To run the analysis.
+3. **Results** - The output of the SAS code can be found in the `Results.pdf` file, including key statistics and visualizations.
 4. **Report** - A comprehensive report detailing the findings from the SAS output is available in the `Report.pdf` file.
-
 5. **Presentation** - A mock presentation that summarizes the findings for potential stakeholders or clients is located in the `Presentation.pdf` file.
 
 ## Contributing
