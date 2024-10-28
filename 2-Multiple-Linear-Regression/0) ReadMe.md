@@ -20,9 +20,11 @@ Building on the simple linear regression approach, this study employs multiple l
 - The model explains a substantial portion of the variance in VPCS42, highlighting the importance of considering multiple health determinants.
 
 ## Folder Structure
-1. **CODE** - To run the analysis:
-   - Open `CODE` in SAS software.
-   - Execute the script to generate results, which will be saved in the `RESULTS.pdf` file.
+1. **Overview** - Provides a quick summary of Simple Linear Analysis available in the `Overview.pdf` file.
+2. **Code** - To run the analysis.
+3. **Results** - The output of the SAS code can be found in the `Results.pdf` file, including key statistics and visualizations.
+4. **Report** - A comprehensive report detailing the findings from the SAS output is available in the `Report.pdf` file.
+5. **Presentation** - A mock presentation that summarizes the findings for potential stakeholders or clients is located in the `Presentation.pdf` file.
 
 2. **RESULTS** - The output of the SAS code can be found in the `RESULTS.pdf` file, including key statistics and visualizations.
 
