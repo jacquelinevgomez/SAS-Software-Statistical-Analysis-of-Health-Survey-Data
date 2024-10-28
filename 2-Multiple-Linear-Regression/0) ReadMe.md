@@ -26,12 +26,6 @@ Building on the simple linear regression approach, this study employs multiple l
 4. **Report** - A comprehensive report detailing the findings from the SAS output is available in the `Report.pdf` file.
 5. **Presentation** - A mock presentation that summarizes the findings for potential stakeholders or clients is located in the `Presentation.pdf` file.
 
-2. **RESULTS** - The output of the SAS code can be found in the `Results.pdf` file, including key statistics and visualizations.
-
-3. **REPORT** - A comprehensive report detailing the findings from the SAS output is available in the `Report.pdf` file.
-
-4. **PRESENTATION** - A mock presentation summarizing the findings for potential stakeholders or clients is located in the `Presentation.pdf` file.
-
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, please open an issue or submit a pull request.
 
